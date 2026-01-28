@@ -53,6 +53,14 @@ script.js
 
 ---
 
+## Live Demo
+The project is live and hosted on Netlify.
+
+🔗 **Live URL:**  
+https://product-filter-24bcf10030.netlify.app/
+
+---
+
 ## Output
 The webpage successfully displays products and filters them according to the selected category from the dropdown menu.
 
